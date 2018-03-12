@@ -1,0 +1,14 @@
+# Spring properties
+spring:
+  application:
+     name: accounts-service
+
+# Discovery Server Access
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8671/eureka/
+
+# HTTP Server
+server:
+  port: 8081   # HTTP (Tomcat) port
