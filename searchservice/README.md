@@ -13,3 +13,4 @@
 ## TODO
 - Add spring data
 - More information about movies
+- Microservice configuration
